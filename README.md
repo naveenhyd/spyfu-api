@@ -1,1 +1,1 @@
-# spyfy-api
+# spyfu-api
