@@ -1,0 +1,11 @@
+{
+    "name": "SpyFu-API",
+    "description": "SpyFu API Calls",
+    "authors": [
+        {
+            "name": "Naveen"
+        }
+    ],
+    "require-dev": {
+    }
+}
